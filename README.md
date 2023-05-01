@@ -12,6 +12,8 @@ For more details, please refer:
 Navarrete M, Alvarado-Rojas C, Le Van Quyen M, Valderrama M. RIPPLELAB: A Comprehensive Application for the Detection, Analysis and Classification of High Frequency Oscillations in Electroencephalographic Signals. PLoS One. 2016 Jun 24;11(6):e0158276. doi: 10.1371/journal.pone.0158276. PMID: 27341033; PMCID: PMC4920418.
 
 Using this toolbox:
-The input is a *.rhfe file, obtained from RippleLab
+The input is a *.rhfe file, obtained from RippleLab.
 Run the code will begin with loading the *.rhfe file. When it is finished, a *_processed.rhfe file will be created.
 The output can be loaded into ripplelab for a review.
+
+A test file is provided.
